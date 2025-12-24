@@ -1,0 +1,10 @@
+a=int(input("Enter a Number:"))
+b=int(input("Enter a number:"))
+c=a+b
+print("Sum Of two Numbers:",c)
+if(c>20):
+  print("Welcome To Python")
+  Enter a Number:10
+Enter a number:20
+Sum Of two Numbers: 30
+Welcome To Python
